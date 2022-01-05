@@ -17,3 +17,4 @@ Since I am both a Mathematical Engineer and a Full-Stack Web Developer, you can 
 4.  [Game Info App](https://github.com/SusanaAlvarezZuluaga/game-app)
 
 ### Applied Math Projects
+1. [Vector-borne-disease model](https://github.com/SusanaAlvarezZuluaga/vector-borne-diseases-abms)
