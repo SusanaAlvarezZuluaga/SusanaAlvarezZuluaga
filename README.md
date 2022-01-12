@@ -3,7 +3,7 @@
 I'm a Mathematical Engineering student passionate about applied math and its different coding applications. Through my career as a mathematician, I have coded for different purposes such as solving complex optimization problems, solving differential equations numerically, performing statistical analyses, and others. After acquiring experience in the industry I have realized that what I am most passionate about is coding for a development purpose which is why I decided to become a Full-Stack Web Developer. 
 
 ## About my repositories
-Since I am both a Mathematical Engineer and a Full-Stack Web Developer, you can find repositories in my github that are related to either one of this professions. Below is a list of the repostories you can find in my GitHub. 
+Since I am both a Mathematical Engineer and a Full-Stack Web Developer, you can find repositories in my github that are related to either one of these professions. Below is a list of the repostories you can find in my GitHub. 
 
 ### Web Development big projects
 1.  [Weather App](https://github.com/SusanaAlvarezZuluaga/weather-app-final)
