@@ -7,7 +7,7 @@ Since I am both a Mathematical Engineer and a Full-Stack Web Developer, you can 
 
 ### Web Development big projects
 1.  [Weather App](https://github.com/SusanaAlvarezZuluaga/weather-app-final)
-2.  [Numerical Analysis App](https://github.com/SusanaAlvarezZuluaga/num-calc)
+2.  [NumCalc App](https://github.com/SusanaAlvarezZuluaga/num-calc)
 3.  [Weather App API](https://github.com/SusanaAlvarezZuluaga/weather-app-api)  
 
 ### Web Development short projects
