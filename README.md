@@ -10,7 +10,6 @@ Since I am both a Mathematical Engineer and a Full-Stack Web Developer, you can 
     * [Repository](https://github.com/SusanaAlvarezZuluaga/weather-app-final) and [Deployment](https://susanaalvarezzuluaga.github.io/weather-app-final)
 2.  NumCalc App
     * [Repository](https://github.com/SusanaAlvarezZuluaga/num-calc) and [Deployment](https://susanaalvarezzuluaga.github.io/num-calc)
-
 3.  Weather App API
     * [Repository](https://github.com/SusanaAlvarezZuluaga/weather-app-api)
 
@@ -23,7 +22,6 @@ Since I am both a Mathematical Engineer and a Full-Stack Web Developer, you can 
     * [Repository](https://github.com/SusanaAlvarezZuluaga/to-do-list-app) and [Deployment](https://susanaalvarezzuluaga.github.io/to-do-list-app)
 4.  Game Info App
     * [Repository](https://github.com/SusanaAlvarezZuluaga/game-app) and [Deployment](https://susanaalvarezzuluaga.github.io/game-app)
-
 
 ### Applied Math Projects
 1. Vector-borne disease model
