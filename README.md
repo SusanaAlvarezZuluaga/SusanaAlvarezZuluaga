@@ -12,6 +12,11 @@ Since I am both a Mathematical Engineer and a Full-Stack Web Developer, you can 
     * [Repository](https://github.com/SusanaAlvarezZuluaga/num-calc) and [Deployment](https://susanaalvarezzuluaga.github.io/num-calc)
 3.  Weather App API
     * [Repository](https://github.com/SusanaAlvarezZuluaga/weather-app-api)
+  
+### AI Projects
+1. Skin Cancer Detection
+    * [Repository](https://github.com/SusanaAlvarezZuluaga/skin-cancer-detection)
+
 
 ### Web Development short projects
 1.  Music App
