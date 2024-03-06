@@ -5,7 +5,7 @@ I'm a Mathematical Engineering student passionate about applied math and its dif
 ## About my repositories
 Since I am both a Mathematical Engineer and a Full-Stack Web Developer, you can find repositories in my github that are related to either one of these professions. Below is a list of the repostories available in my GitHub as well as the projects I have deployed.
 
-### Web Development big projects
+### Web Development Big Projects
 1.  Weather App
     * [Repository](https://github.com/SusanaAlvarezZuluaga/weather-app-final) and [Deployment](https://susanaalvarezzuluaga.github.io/weather-app-final)
 2.  NumCalc App
@@ -13,17 +13,16 @@ Since I am both a Mathematical Engineer and a Full-Stack Web Developer, you can 
 3.  Weather App API
     * [Repository](https://github.com/SusanaAlvarezZuluaga/weather-app-api)
   
-### AI Projects
+
+### AI & Applied Math Research Projects
 1. Skin Cancer Detection
     * [Repository](https://github.com/SusanaAlvarezZuluaga/skin-cancer-detection)
-
-### Applied Math Projects
-1. Vector-borne disease model
+2. Vector-borne disease model
     * [Repository](https://github.com/SusanaAlvarezZuluaga/vector-borne-diseases-abms)
-2. Set Covering Problem algorithms
+3.  Set Covering Problem algorithms
     * [Repository](https://github.com/SusanaAlvarezZuluaga/set-covering-problem)
 
-### Web Development short projects
+### Web Development Short Projects
 1.  Music App
     * [Repository](https://github.com/SusanaAlvarezZuluaga/music-app) and [Deployment](https://susanaalvarezzuluaga.github.io/music-app/)
 2.  Calculator
