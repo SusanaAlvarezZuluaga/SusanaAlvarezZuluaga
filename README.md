@@ -17,6 +17,11 @@ Since I am both a Mathematical Engineer and a Full-Stack Web Developer, you can 
 1. Skin Cancer Detection
     * [Repository](https://github.com/SusanaAlvarezZuluaga/skin-cancer-detection)
 
+### Applied Math Projects
+1. Vector-borne disease model
+    * [Repository](https://github.com/SusanaAlvarezZuluaga/vector-borne-diseases-abms)
+2. Set Covering Problem algorithms
+    * [Repository](https://github.com/SusanaAlvarezZuluaga/set-covering-problem)
 
 ### Web Development short projects
 1.  Music App
@@ -27,10 +32,4 @@ Since I am both a Mathematical Engineer and a Full-Stack Web Developer, you can 
     * [Repository](https://github.com/SusanaAlvarezZuluaga/to-do-list-app) and [Deployment](https://susanaalvarezzuluaga.github.io/to-do-list-app)
 4.  Game Info App
     * [Repository](https://github.com/SusanaAlvarezZuluaga/game-app) and [Deployment](https://susanaalvarezzuluaga.github.io/game-app)
-
-### Applied Math Projects
-1. Vector-borne disease model
-    * [Repository](https://github.com/SusanaAlvarezZuluaga/vector-borne-diseases-abms)
-2. Set Covering Problem algorithms
-    * [Repository](https://github.com/SusanaAlvarezZuluaga/set-covering-problem)
 
