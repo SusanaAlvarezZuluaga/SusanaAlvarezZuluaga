@@ -16,20 +16,11 @@ Since I am both a Mathematical Engineer and a Full-Stack Web Developer, you can 
     * [Repository](https://github.com/SusanaAlvarezZuluaga/set-covering-problem)
 
 ### Web Development Big Projects
-1.  Weather App
-    * [Repository](https://github.com/SusanaAlvarezZuluaga/weather-app-final) and [Deployment](https://susanaalvarezzuluaga.github.io/weather-app-final)
-2.  NumCalc App
+1.  NumCalc App
     * [Repository](https://github.com/SusanaAlvarezZuluaga/num-calc) and [Deployment](https://susanaalvarezzuluaga.github.io/num-calc)
+2.  Weather App
+    * [Repository](https://github.com/SusanaAlvarezZuluaga/weather-app-final) and [Deployment](https://susanaalvarezzuluaga.github.io/weather-app-final)
 3.  Weather App API
     * [Repository](https://github.com/SusanaAlvarezZuluaga/weather-app-api)
 
-### Web Development Short Projects
-1.  Music App
-    * [Repository](https://github.com/SusanaAlvarezZuluaga/music-app) and [Deployment](https://susanaalvarezzuluaga.github.io/music-app/)
-2.  Calculator
-    * [Repository](https://github.com/SusanaAlvarezZuluaga/myCalculator) and [Deployment](https://susanaalvarezzuluaga.github.io/myCalculator)
-3.  To do List App
-    * [Repository](https://github.com/SusanaAlvarezZuluaga/to-do-list-app) and [Deployment](https://susanaalvarezzuluaga.github.io/to-do-list-app)
-4.  Game Info App
-    * [Repository](https://github.com/SusanaAlvarezZuluaga/game-app) and [Deployment](https://susanaalvarezzuluaga.github.io/game-app)
 
